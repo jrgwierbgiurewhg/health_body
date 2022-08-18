@@ -1,6 +1,6 @@
 # health_body
 
-A new Flutter project.
+Simple bmi calculator
 
 ## Getting Started
 
